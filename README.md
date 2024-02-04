@@ -17,4 +17,4 @@
 
 👓 Since I embarked on this journey, I discovered that I have a passion for solving problems and optimizing day-to-day activities. There's nothing more rewarding for me than facing a challenge and finding the perfect solution. I love the feeling of seeing how small changes can make a big difference.
 
-![Snake animation](https://github.com/Doug-Junior/Doug-Junior/blob/output/github-contribution-grid-snake.svg)
+<img source = "https://raw.githubusercontent.com/Doug-Junior/Doug-Junior/output/snake.svg" alt = "Snake animation"/>

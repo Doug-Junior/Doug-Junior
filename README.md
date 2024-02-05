@@ -2,8 +2,10 @@
 ### Welcome to my GitHub profile!!
 <br/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-aguiar-da-silva-júnior-05964b2aa/)
-[![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
+<div>
+  <a href='mailto:douglasajr@hotmail.com'><img align='center' height='30' widgt='40' src='https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white' /></a>
+  <a href='https://www.linkedin.com/in/douglas-aguiar-da-silva-júnior-05964b2aa/'><img align='center' height='30' widgt='40' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+</div>
 
 ![Douglas Júnior's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doug-Junior&show_icons=true&theme=cobalt2)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-Junior&layout=donut&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
